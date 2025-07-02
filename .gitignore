@@ -20,3 +20,4 @@ results/KPI-AWARE embedding propagation for DC-OP placetype development.pptx
 results/model_results.csv
 results/kpi_embeddings_updated.csv
 results/top-3 models.png
+notebooks/training_GraphSAGE.ipynb
